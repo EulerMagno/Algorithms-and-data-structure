@@ -1,0 +1,39 @@
+
+		Trabalho final de AED
+
+		
+		Grupos: 
+		
+		
+		G1- Fillipe/Paulo: TAD Plano cartesiano   https://repl.it/@paulobh/TrabalhofinalserufoTAD-2 OK 
+
+		G2- Jeison/Diogo: Ordenação por Inserção   https://repl.it/@JeisonGuimaraes/insertionSort OK
+
+		G3- Alex/Marcos: RadixSort   https://bit.ly/2QqeRDB OK 
+
+		64- Milene/Marco Túlio: QuickSort   https://repl.it/@MarcoTulioTulio/ImplementsQuickSort OK
+
+		G5- Henrique/Gustavo: ShellSort   https://bit.ly/2XzIWDO OK 
+
+		G6- Thales/Gabriel: HeapSort   https://repl.it/@ThalesHenrique1/OverdueRottenPredictions-4 OK 
+ 
+		G7- Gabriella/Lucas: BubbleSort   https://bit.ly/2KFd7pf OK 
+
+		G8- Jean/Nicolas: GnomeSort   https://repl.it/@NicolasParreira/ReadyAdeptLoopfission-1 OK
+
+		G9- Ana Paula/Leandro: Ordenação por Seleção   https://repl.it/@LeandroNeves1/selectionsort OK 
+ 
+		G10- Caio/Marcus Vinícius: CombSort   https://repl.it/@CaioGabriel/Comb-Sort OK 
+  
+		G11- Ronaldo/Matheus: Pesquisa Binária    https://repl.it/@RonaldoRibeiro/BUSCA-BINARIA OK
+
+		G12- Azemar/Ramon: MergeSort   https://repl.it/@RamonFaquino/Exercicio-Merge-Sort OK 
+
+		G13- Higor/ Natan: BogoSort   https://repl.it/@nathanads/Bogosort-Funcoes OK 
+
+		G14- Victor/Diego: Grafo   https://repl.it/@DiegoCiqueira/Pratica-Grafo-Algoritmo-de-Dijkstra OK 
+
+		615- Ariel/Euler/Ana Carolina: Árvore Binária   https://repl.it/@EulerMagno/AED-ARVORE-BINARIA OK 
+
+
+ 

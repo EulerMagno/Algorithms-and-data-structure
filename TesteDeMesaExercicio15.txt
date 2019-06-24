@@ -1,0 +1,19 @@
+                 53 
+         24           <>
+   12        36 
+  <><>    25    52 
+         <><>  <><>
+
+<53 
+   <24 
+      <12 <><> <36
+                 <25 <><> <52 <><>
+                                  > (fechamento do 52)
+                                   > (fechamento do 25)
+                                    > (fechamento do 36)
+                                     > (fechamento do 12)
+                                      > (fechamento do 24)
+                                       > (fechamento do 53)
+                   
+
+                      
